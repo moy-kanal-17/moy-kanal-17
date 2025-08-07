@@ -13,7 +13,7 @@ I'm a **self-taught and professionally trained Full Stack Developer** with a pas
 
 Over the past few years, I’ve built several web platforms from scratch — handling everything from backend logic, authentication, role-based systems, and APIs to frontend UI/UX design with responsive layouts.
 
-I specialize in **NestJS** and **React**, and I love working with **PostgreSQL** and **REST APIs**. I’m also diving deeper into **Docker**, **CI/CD**, and scalable architecture to become a DevOps-aware developer.
+I specialize in **NestJS** and **React**, and I love working with databases like **PostgreSQL, MongoDB, MySQL, and Redis**. I’m also diving deeper into **Docker**, **CI/CD**, and scalable architecture to become a DevOps-aware developer.
 
 > 💡 I believe in continuous learning, writing maintainable code, and delivering user-focused software.
 
@@ -36,6 +36,9 @@ I specialize in **NestJS** and **React**, and I love working with **PostgreSQL**
   <img src="https://img.shields.io/badge/Backend-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Styling-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a"/>
 </p>
