@@ -9,13 +9,21 @@
 
 ### 💡 About Me
 
-I'm a highly motivated Full Stack Developer with a strong focus on performance, clean architecture, and real-world solutions.  
-Currently building scalable backend systems with **NestJS**, and responsive interfaces with **React + Tailwind CSS**.
+I'm a **self-taught and professionally trained Full Stack Developer** with a passion for clean code, performance optimization, and solving real-world problems with technology.
 
-- 🔭 Working on a full-featured ERP system for schools and universities  
-- 💬 I speak JavaScript, TypeScript, and REST fluently  
-- 🌱 Learning: Docker, Microservices, CI/CD  
-- 📁 Portfolio (in progress): [moy-kanal-17.github.io/PORTFOLIO](https://moy-kanal-17.github.io/PORTFOLIO/)
+Over the past few years, I’ve built several web platforms from scratch — handling everything from backend logic, authentication, role-based systems, and APIs to frontend UI/UX design with responsive layouts.
+
+I specialize in **NestJS** and **React**, and I love working with **PostgreSQL** and **REST APIs**. I’m also diving deeper into **Docker**, **CI/CD**, and scalable architecture to become a DevOps-aware developer.
+
+> 💡 I believe in continuous learning, writing maintainable code, and delivering user-focused software.
+
+#### 🔍 A few facts about me:
+- 🧠 I love solving logic-heavy tasks and building from the ground up.
+- ⚙️ I follow agile practices and thrive in collaborative environments.
+- 🛠️ I enjoy debugging, refactoring, and making things faster and cleaner.
+- 🧩 I'm the kind of person who gets excited by “Why is this broken?” and won’t stop until it's solved.
+
+📁 Portfolio (still in progress): [moy-kanal-17.github.io/PORTFOLIO](https://moy-kanal-17.github.io/PORTFOLIO/)
 
 ---
 
@@ -40,7 +48,7 @@ Currently building scalable backend systems with **NestJS**, and responsive inte
 |--------|-------------|------|
 | 🔹 [ERP System](https://github.com/moy-kanal-17/Erp) | Role-based ERP platform for education with schedule, homework, and performance modules | React, NestJS, PostgreSQL |
 | 🔹 [Varenoma Group](https://github.com/moy-kanal-17/varenomaLinks) | Internal business tools built with React + NestJS + Django | React, NestJS, Django |
-| 🔹 [Marikat E-commerce](https://github.com/Yusuf4248/marikat) | E-commerce with product management, image upload, JWT auth, Vercel CI/CD | React, NestJS, Cloudinary |
+| 🔹 [ONLINE_STORE](https://github.com/moy-kanal-17/ONLINE_STORE) | Full-featured e-commerce platform with JWT auth, product management, image hosting, CI/CD deployment | React, NestJS, Cloudinary |
 
 ---
 
@@ -62,4 +70,4 @@ Currently building scalable backend systems with **NestJS**, and responsive inte
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile ✨</p>
+<p align="center">✨ Thank you for visiting my profile! I’m always open to interesting projects and collaboration opportunities. 🤝</p>
