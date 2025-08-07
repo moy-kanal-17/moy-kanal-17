@@ -1,71 +1,65 @@
-<h1 align="center">👋 Hi, I'm Abduqodir Faxriddinov</h1>
+<h1 align="center">👋 Hey there, I'm Abduqodir Faxriddinov</h1>
 
 <p align="center">
-  💻 Full Stack Developer from Tashkent, Uzbekistan 🇺🇿<br>
+  🚀 Full Stack Developer from Tashkent, Uzbekistan 🇺🇿<br>
   📧 17abduqodir17@gmail.com • 🖥️ <a href="https://github.com/moy-kanal-17">GitHub</a> • 📱 +998 95 035 59 18
 </p>
 
 ---
 
-## 🚀 About Me
+### 💡 About Me
 
-I'm a passionate Full Stack Developer who loves building modern, scalable, and user-friendly web applications.  
-Currently focused on backend development with **NestJS**, while also building responsive UIs with **React + Tailwind CSS**.
+I'm a highly motivated Full Stack Developer with a strong focus on performance, clean architecture, and real-world solutions.  
+Currently building scalable backend systems with **NestJS**, and responsive interfaces with **React + Tailwind CSS**.
 
-- 💼 Currently working on an ERP System for educational institutions
-- 🌱 Always learning: DevOps, Clean Architecture, Microservices
-- ⚡ I enjoy solving real-world problems with clean and optimized code
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-`JavaScript` `TypeScript` `HTML` `CSS` `SASS`
-
-### Frontend
-`React` `Tailwind CSS` `Bootstrap`
-
-### Backend
-`Node.js` `NestJS` `Express.js`
-
-### Database & APIs
-`PostgreSQL` `MongoDB` `REST API`
-
-### Tools
-`Git` `GitHub` `CI/CD` `Vercel` `Docker (learning)`
+- 🔭 Working on a full-featured ERP system for schools and universities  
+- 💬 I speak JavaScript, TypeScript, and REST fluently  
+- 🌱 Learning: Docker, Microservices, CI/CD  
+- 📁 Portfolio (in progress): [moy-kanal-17.github.io/PORTFOLIO](https://moy-kanal-17.github.io/PORTFOLIO/)
 
 ---
 
-## 💼 Projects
-
-### 🔹 [ERP System](https://github.com/Yusuf4248/erp-six)
-Comprehensive ERP platform for managing education processes – RBAC, scheduling, homework, notifications, DevOps lifecycle.
-
-### 🔹 [Marikat](https://github.com/Yusuf4248/marikat)
-Full-stack e-commerce platform with JWT auth, Cloudinary image uploads, CI/CD deployment on Vercel.
-
-### 🔹 [Varenoma Group](https://github.com/Yusuf4248/varenoma)
-Internal business tools built with React + NestJS + Django, reducing developer workload and streamlining tasks.
-
----
-
-## 📈 GitHub Stats
+### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moy-kanal-17&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moy-kanal-17&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Backend-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Styling-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+### 📌 Featured Projects
 
-- 📧 Email: 17abduqodir17@gmail.com  
-- 💬 Telegram: [@yourusername](https://t.me/yourusername)  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔹 [ERP System](https://github.com/moy-kanal-17/Erp) | Role-based ERP platform for education with schedule, homework, and performance modules | React, NestJS, PostgreSQL |
+| 🔹 [Varenoma Group](https://github.com/moy-kanal-17/varenomaLinks) | Internal business tools built with React + NestJS + Django | React, NestJS, Django |
+| 🔹 [Marikat E-commerce](https://github.com/Yusuf4248/marikat) | E-commerce with product management, image upload, JWT auth, Vercel CI/CD | React, NestJS, Cloudinary |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moy-kanal-17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moy-kanal-17&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [17abduqodir17@gmail.com](mailto:17abduqodir17@gmail.com)  
+- 💬 Telegram: [@uzgame_pc](https://t.me/uzgame_pc)  
 - 🌐 GitHub: [moy-kanal-17](https://github.com/moy-kanal-17)
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my repositories and reach out if you'd like to collaborate! 🤝_
+<p align="center">✨ Thank you for visiting my profile ✨</p>
